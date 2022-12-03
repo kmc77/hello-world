@@ -1,6 +1,6 @@
 package HelloWorld;
 
-public class HelloWorld_step_15 {
+public class HelloWorld_step_16 {
 	
 	int a = 5;
 	int b = 10;
